@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1538579880 source:c:\users\alumno\desktop\modeloparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"almuerzos.h"
+	"empleados.h"
+	"fechas.h"
+	"menu.h"
+
+1538572331 source:c:\users\alumno\desktop\modeloparcial\almuerzos.c
+
+1538572355 source:c:\users\alumno\desktop\modeloparcial\empleados.c
+
+1538572265 source:c:\users\alumno\desktop\modeloparcial\fechas.c
+
+1538577763 c:\users\alumno\desktop\modeloparcial\almuerzos.h
+
+1538576980 c:\users\alumno\desktop\modeloparcial\empleados.h
+	"fechas.h"
+
+1538576947 c:\users\alumno\desktop\modeloparcial\fechas.h
+
+1538580003 c:\users\alumno\desktop\modeloparcial\menu.h
+
